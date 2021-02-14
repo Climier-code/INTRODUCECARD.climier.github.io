@@ -3,7 +3,7 @@
 # 해달 교육운영진 과제2
 > HTML5 `style` 이용하여 자기소개 카드 만들기
 
-## Finish
+## Preview
 <a title="finish_img"><img src="https://github.com/Climier-code/INTRODUCECARD.climier.github.io/blob/master/finish_card.png" width="50%" ></a>
 
 ## Used tool
